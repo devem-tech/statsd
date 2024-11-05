@@ -1,0 +1,9 @@
+linters:
+  enable-all: true
+
+linters-settings:
+  varnamelen:
+    ignore-names:
+      - mt
+      - n
+      - o
